@@ -17,7 +17,7 @@ function Info() {
               <div className="relative z-10 bg-gray-100 rounded-lg">
                 <div className="relative mb-8 h-52">
                 <Image
-                      src='/../public/assets/work-5.jpg'
+                      src='https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDV8fGNoYXJpdHl8ZW58MHx8fHwxNjU4OTIzNTMz&ixlib=rb-1.2.1&w=500'
                       alt=''
                       className="w-full h-full rounded-lg object-cover object-top"
                       layout='fill'
@@ -35,12 +35,12 @@ function Info() {
               <div className="relative z-10 lg:mt-24 bg-gray-100 rounded-lg">
                 <div className="relative mb-8 h-52">
                 <Image
-                      src='/../public/assets/work-1.jpg'
+                      src='https://images.unsplash.com/photo-1591522810850-58128c5fb089?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDE0fHxjaGFyaXR5fGVufDB8fHx8MTY1ODkyMzUzMw&ixlib=rb-1.2.1&w=500'
                       alt=''
                       className="w-full h-full rounded-lg object-cover object-top"
                       layout='fill'
                     />
-                    <img className="w-full h-full rounded-lg object-cover" src="https://images.pexels.com/photos/5325768/pexels-photo-5325768.jpeg?q=80&amp;fm=jpg&amp;crop=faces&amp;cs=tinysrgb&amp;fit=crop&amp;h=450&amp;w=940" alt=""/>
+                    {/* <img className="w-full h-full rounded-lg object-cover" src="https://images.pexels.com/photos/5325768/pexels-photo-5325768.jpeg?q=80&amp;fm=jpg&amp;crop=faces&amp;cs=tinysrgb&amp;fit=crop&amp;h=450&amp;w=940" alt=""/> */}
                   <div className="absolute bottom-0 left-0 ml-8 mb-6 px-3 pb-3 pt-1 inline-block bg-white rounded-b-2xl border-t-4 border-blue-500">
                     <p className="text-xl font-bold">29</p>
                     <p className="text-xs uppercase text-gray-900">Feb</p>
@@ -53,7 +53,7 @@ function Info() {
               <div className="relative z-10 bg-gray-100 rounded-lg">
                 <div className="relative mb-8 h-52">
                 <Image
-                      src='/../public/assets/work-3.jpg'
+                      src='https://images.unsplash.com/photo-1643321611132-15f7b8a63347?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDIxfHxjaGFyaXR5fGVufDB8fHx8MTY1ODkyMzUzNA&ixlib=rb-1.2.1&w=500'
                       alt=''
                       className="w-full h-full rounded-lg object-cover object-top"
                       layout='fill'

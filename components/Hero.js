@@ -32,7 +32,7 @@ function Hero() {
               <div className="w-full lg:w-1/2 px-4 flex items-center justify-center">
                 <div className="relative">
                     <Image
-                      src='/../public/assets/hero1.jpg'
+                      src='https://images.unsplash.com/photo-1504376379689-8d54347b26c6?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEwM3x8Y2hpbGR8ZW58MHx8fHwxNjU4OTIzNDcy&ixlib=rb-1.2.1&w=500'
                       alt=''
                       className="h-96 w-full max-w-lg object-cover rounded-3xl md:rounded-br-none"
                       height={500}

@@ -13,7 +13,7 @@ function Work() {
           <div className="flex flex-wrap -mx-5">
             <div className="w-full lg:w-1/3 px-5 pt-10 lg:pt-20 pb-10">
               <ul>
-                <li className="pb-5 border-b border-gray-500"><a className="inline-block py-6 px-12 bg-gray-600 rounded-lg text-lg text-white font-bold" href="#">Abstraction 3D</a></li>
+                <li className="pb-5 border-b border-gray-500"><a className="inline-block py-6 px-12 bg-gray-600 rounded-lg text-lg text-white font-bold" href="#">Scholarship</a></li>
                 <li className="py-6 border-b border-gray-500"><a className="inline-block py-6 px-12 text-lg text-gray-300" href="#">Commercial</a></li>
                 <li className="py-6 border-b border-gray-500"><a className="inline-block py-6 px-12 text-lg text-gray-300" href="#">Photography & Film</a></li>
                 <li><a className="inline-block py-6 px-12 text-lg text-gray-300" href="#">All projects</a></li>
@@ -23,7 +23,7 @@ function Work() {
               <div className="flex flex-wrap -px-4">
                 <div className="w-full md:w-1/3 p-4">
                 <Image
-                      src='/../public/assets/work-1.jpg'
+                      src='https://images.unsplash.com/photo-1608686207856-001b95cf60ca?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDZ8fGNoYXJpdHl8ZW58MHx8fHwxNjU4OTIzNTMz&ixlib=rb-1.2.1&w=500'
                       alt=''
                       className="h-96 w-full object-cover"
                       height={384}
@@ -33,7 +33,7 @@ function Work() {
                     </div>
                 <div className="w-full md:w-2/3 p-4">
                 <Image
-                      src='/../public/assets/work-4.jpg'
+                      src='https://images.unsplash.com/photo-1509099836639-18ba1795216d?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fGNoYXJpdHl8ZW58MHx8fHwxNjU4OTIzNTMz&ixlib=rb-1.2.1&w=500'
                       alt=''
                       className="h-96 w-full object-cover"
                       height={384}
@@ -43,7 +43,7 @@ function Work() {
                     </div>
                 <div className="w-full md:w-2/3 p-4">
                 <Image
-                      src='/../public/assets/work-6.jpg'
+                      src='https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDJ8fGNoaWxkcmVufGVufDB8fHx8MTY1ODkyMzgyMA&ixlib=rb-1.2.1&w=500'
                       alt=''
                       className="h-96 w-full object-cover"
                       height={384}
@@ -53,7 +53,7 @@ function Work() {
                     </div>
                 <div className="w-full md:w-1/3 p-4">
                     <Image
-                        src='/../public/assets/work-4.jpg'
+                        src='https://images.unsplash.com/photo-1507427100689-2bf8574e32d4?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDZ8fGFpZHxlbnwwfHx8fDE2NTg5MjM4NTE&ixlib=rb-1.2.1&w=500'
                         alt=''
                         className="h-96 w-full object-cover"
                         height={384}
